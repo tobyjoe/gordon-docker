@@ -1,6 +1,6 @@
 # gordon-docker
 
-Run (Gordon)[https://github.com/jorgebastida/gordon/] in Docker.
+Run [Gordon](https://github.com/jorgebastida/gordon/) in Docker.
 
 ## Why Use Docker?
 
@@ -10,7 +10,7 @@ So, I try to always run Python stuff in Docker. Heck, I try to run everything in
 
 ## Why Gordon?
 
-I'm checking the gordon project out, and it seems really nice. One of the benefits of (Apex)[https://github.com/apex/apex] is that it's written in Go, and thus can run pretty much anywhere. With Docker, gordon becomes similarly-portable (for my purposes).
+I'm checking the gordon project out, and it seems really nice. One of the benefits of [Apex](https://github.com/apex/apex) is that it's written in Go, and thus can run pretty much anywhere. With Docker, gordon becomes similarly-portable (for my purposes).
 
 # Usage
 
