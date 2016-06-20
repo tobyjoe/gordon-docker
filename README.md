@@ -15,7 +15,7 @@ I'm checking the gordon project out, and it seems really nice. One of the benefi
 # Usage
 
 ```
-git clone git@github.com:jorgebastida/gordon.git
+git clone git@github.com:tobyjoe/gordon-docker.git
 docker build -t gordon .
 docker run -v "$PWD":/var/task gordon startproject my-sweet-project
 ```
